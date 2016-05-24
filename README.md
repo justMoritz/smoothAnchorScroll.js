@@ -3,7 +3,7 @@
 ## ABOUT:
 
 A little jQuery Plugin script I use in almost all my websites that contain anchor scrolls. 
-Instead of jumping to a point in the page, website scrolls smoothly (and at a consistent speed) to each anchor
+Instead of jumping to a point in the page, website scrolls smoothly (and at a consistent speed) to each anchor.
 
 ## SETUP:
 
