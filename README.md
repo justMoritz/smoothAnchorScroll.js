@@ -1,4 +1,4 @@
-# Smooth Anchor Scorll (.js)
+# Smooth Anchor Scroll (.js)
 
 ## ABOUT:
 
