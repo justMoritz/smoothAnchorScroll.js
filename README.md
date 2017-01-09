@@ -1,4 +1,5 @@
 # Smooth Anchor Scroll (.js)
+![SMOOTH ANCHOR SCROLL SAMPLE](http://files.moritzzimmer.com/smoothanchorscroll.gif)
 
 ## ABOUT:
 
